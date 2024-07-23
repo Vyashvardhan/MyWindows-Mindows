@@ -1,6 +1,6 @@
 <h1 align="center">my_windows</h1>
 <h3 align="center">A minimal Operating System created with React.</h3>
-<h5 >[Demo](https://mindows.netlify.app/)</h5>
+<h5align="center">[Demo](https://mindows.netlify.app)</h5>
 
 <img src="https://user-images.githubusercontent.com/20419286/126880139-efdaf35f-ee14-424e-a718-41c7015898af.png" width="100%" />
 
