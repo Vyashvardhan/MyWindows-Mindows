@@ -1,4 +1,4 @@
-<h1 align="center">my_windows</h1>
+<h1 align="center">My Windows: Mindows</h1>
 <h3 align="center">A minimal Operating System created with React.</h3>
 <h5 align="center">Click <a href="https://mindows.netlify.app">here</a> for demo</h5>
 
