@@ -26,7 +26,7 @@ Filesystem is built using [LocalStorage](https://developer.mozilla.org/en-US/doc
 
 ## Contribution
 
-This is my first project of this level, so it might have bugs. New apps (what about a music player?) can be written and added to the project. For now apps including Calender, Calculator and Settings are not pre-installed into it.
+New apps (what about a music player?) can be written and added to the project. For now apps including Calender, Calculator and Settings are not pre-installed into it.
 
 ## Getting Started with Create React App
 
